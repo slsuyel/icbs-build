@@ -1,0 +1,79 @@
+[
+  {
+   
+    "daily_percentage": 32,
+    "total_percentage": 2000,
+    "daily_income": 320,
+    "total_earnings": 19200,
+    "days": 60,
+    "price": 1000,
+    "cashback": 10
+  },
+  {
+   
+    "daily_percentage": 31,
+    "total_percentage": 1900,
+    "daily_income": 155,
+    "total_earnings": 9300,
+    "days": 60,
+    "price": 500,
+    "cashback": 10
+  },
+  {
+   
+    "daily_percentage": 38,
+    "total_percentage": 2300,
+    "daily_income": 3800,
+    "total_earnings": 228000,
+    "days": 60,
+    "price": 10000,
+    "cashback": 10
+  },
+  {
+   
+    "daily_percentage": 45,
+    "total_percentage": 2700,
+    "daily_income": 11250,
+    "total_earnings": 675000,
+    "days": 60,
+    "price": 25000,
+    "cashback": 10
+  },
+  {
+   
+    "daily_percentage": 50,
+    "total_percentage": 3000,
+    "daily_income": 22500,
+    "total_earnings": 1350000,
+    "days": 60,
+    "price": 45000
+  },
+  {
+   
+    "daily_percentage": 34,
+    "total_percentage": 2100,
+    "daily_income": 680,
+    "total_earnings": 40800,
+    "days": 60,
+    "price": 2000,
+    "cashback": 10
+  },
+  {
+   
+    "daily_percentage": 36,
+    "total_percentage": 1800,
+    "daily_income": 1800,
+    "total_earnings": 108000,
+    "days": 60,
+    "price": 5000
+  },
+  {
+   
+    "daily_percentage": 30,
+    "total_percentage": 1800,
+    "daily_income": 60,
+    "total_earnings": 3600,
+    "days": 60,
+    "price": 200
+  }
+]
