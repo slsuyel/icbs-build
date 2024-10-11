@@ -9,7 +9,6 @@
     "cashback": 10
   },
   {
-   
     "daily_percentage": 31,
     "total_percentage": 1900,
     "daily_income": 155,
@@ -45,7 +44,8 @@
     "daily_income": 22500,
     "total_earnings": 1350000,
     "days": 60,
-    "price": 45000
+    "price": 45000,
+    "cashback": 10
   },
   {
    
@@ -64,7 +64,8 @@
     "daily_income": 1800,
     "total_earnings": 108000,
     "days": 60,
-    "price": 5000
+    "price": 5000,
+    "cashback": 10
   },
   {
    
